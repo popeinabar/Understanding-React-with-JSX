@@ -1,0 +1,15 @@
+/* add your styles here */
+h1{
+    text-align: center;
+    color: red;
+}
+.img{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 1%;
+    margin: 1%;
+
+}
+img{
+   width: 100%; 
+}
